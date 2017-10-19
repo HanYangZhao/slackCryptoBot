@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/HanYangZhao/slackCryptoBot/master/demo.PNG)
 
 This slack bot will allow you to monitor any crypto currency trading on any major exchanges. It uses ccxt as well as pymarketcap to fetch all the information. It allows the user to check the current price, set alarms and as well as generating image for the top gainers/losers. Eventuall I would like to implement graphing feature such as candlesticks,RSI,MCAP....
 
