@@ -28,9 +28,9 @@ In tasks.py, add the public ip of the host machine in "host"
 By default the program runs on port 7000, you will need to open this port on your router
 
 ## Slack app setup
-### Slack webhook
+### Webhook
 Generate new slack webhook
-### Slack commands
+### Slash commands
   All request URLs should be https://YOURPUBLICIP:7000/slack
 
 	/alert [coin symbol][price $ or %][market(default=coinmarketcap)]   sets a new alert for a coin  eg: /alert BTC 10% bittrex
