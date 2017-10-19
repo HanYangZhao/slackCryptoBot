@@ -1,0 +1,10 @@
+apscheduler
+requests
+pandas
+flask
+bs4
+celery
+matplotlib
+numpy
+simplejson
+ccxt
